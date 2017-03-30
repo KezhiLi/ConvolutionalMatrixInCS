@@ -9,7 +9,7 @@ deterministic sequences: Golay sequence, Golay complementay sequence, Legendre s
 
 2. Using various reconstruction algorithms, including:
 
-omp, Samp, CoSaMp, Subspace pursuit, sbhe, etc.
+omp, Samp, CoSaMp, Subspace pursuit, sbhe, RecPF solves, etc.
 
 Please refer to paper: 
 
